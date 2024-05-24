@@ -2,7 +2,11 @@ team: Leopards
 
 Nora: Luke
 
+<<<<<<< HEAD
 Nicholas: Oscar
+=======
+Meliss: Oscar
+>>>>>>> 69b70d7 (Edit Leopards)
 
 members:
 - Linda
